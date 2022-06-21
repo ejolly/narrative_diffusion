@@ -2,3 +2,4 @@
 *.joblib
 .env
 .cache
+analysis/*.json
